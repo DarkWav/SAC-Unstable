@@ -1,6 +1,6 @@
 # SAC (ShadowAntiCheat)
 ## The unstable branch of SAC. Use with caution!<br>This is bleeding-edge software, not not use it in production environments!
-### Here, new and experimental features of SAC will be tested. This branch has no official precompiled phar files, though you may download auto-builded files from Poggit.
+### Here, new and experimental features of SAC will be tested. This branch has no official precompiled phar files, though you may download auto-builded files from Poggit.<br>If you want a stable Version, take a look at the [Stable Branch](https://github.com/DarkWav/SAC).
 
 ### A powerfull AntiCheat software made to detect unfair gamplay advantages.
 
